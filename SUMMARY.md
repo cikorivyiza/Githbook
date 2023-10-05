@@ -100,3 +100,5 @@
     * [Changing top Display Properties](module-3-operating-running-systems/process-management/changing-top-display-properties.md)
     * [Monitoring Processes with top](module-3-operating-running-systems/process-management/monitoring-processes-with-top.md)
     * [Changing Process Priority](module-3-operating-running-systems/process-management/changing-process-priority.md)
+  * [Managing Software](module-3-operating-running-systems/managing-software/README.md)
+    * [Installing Software from Source Packages](module-3-operating-running-systems/managing-software/installing-software-from-source-packages.md)
