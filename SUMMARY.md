@@ -102,3 +102,4 @@
     * [Changing Process Priority](module-3-operating-running-systems/process-management/changing-process-priority.md)
   * [Managing Software](module-3-operating-running-systems/managing-software/README.md)
     * [Installing Software from Source Packages](module-3-operating-running-systems/managing-software/installing-software-from-source-packages.md)
+    * [Understanding Software Package](module-3-operating-running-systems/managing-software/understanding-software-package.md)
